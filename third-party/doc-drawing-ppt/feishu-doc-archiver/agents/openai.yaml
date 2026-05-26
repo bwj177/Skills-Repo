@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Doc Archiver"
+  short_description: "Classify, archive, and share Feishu docs"
+  default_prompt: "Use $feishu-doc-archiver to archive docs into categorized folders and grant collaborator permissions."
